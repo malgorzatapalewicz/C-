@@ -1,0 +1,3 @@
+/Users/gosiapalewicz/Documents/punkty, linie i przeksztalcenia/cmake-build-debug/CMakeFiles/punkty__linie_i_przeksztalcenia.dir
+/Users/gosiapalewicz/Documents/punkty, linie i przeksztalcenia/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gosiapalewicz/Documents/punkty, linie i przeksztalcenia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
